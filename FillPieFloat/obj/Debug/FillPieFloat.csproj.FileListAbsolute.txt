@@ -1,0 +1,9 @@
+D:\Projects\FillPieFloat\FillPieFloat\bin\Debug\FillPieFloat.exe.config
+D:\Projects\FillPieFloat\FillPieFloat\bin\Debug\FillPieFloat.exe
+D:\Projects\FillPieFloat\FillPieFloat\bin\Debug\FillPieFloat.pdb
+D:\Projects\FillPieFloat\FillPieFloat\obj\Debug\FillPieFloat.csprojResolveAssemblyReference.cache
+D:\Projects\FillPieFloat\FillPieFloat\obj\Debug\FillPieFloat.Form1.resources
+D:\Projects\FillPieFloat\FillPieFloat\obj\Debug\FillPieFloat.Properties.Resources.resources
+D:\Projects\FillPieFloat\FillPieFloat\obj\Debug\FillPieFloat.csproj.GenerateResource.Cache
+D:\Projects\FillPieFloat\FillPieFloat\obj\Debug\FillPieFloat.exe
+D:\Projects\FillPieFloat\FillPieFloat\obj\Debug\FillPieFloat.pdb
